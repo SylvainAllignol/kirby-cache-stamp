@@ -3,7 +3,7 @@
 	"description": "Cache buster for CSS, JS, fonts, SVG, PDF and images with advanced configuration options",
 	"type": "kirby-plugin",
 	"license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"homepage": "https://github.com/SylvainAllignol/kirby-cache-stamp",
 	"authors": [
 		{
