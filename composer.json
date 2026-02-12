@@ -3,7 +3,7 @@
 	"description": "Cache buster for CSS, JS, fonts, SVG, PDF and images with advanced configuration options",
 	"type": "kirby-plugin",
 	"license": "MIT",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"homepage": "https://plugins.getkirby.com/sylvainallignol/cache-stamp",
 	"authors": [
 		{
