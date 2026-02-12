@@ -4,7 +4,7 @@
 	"type": "kirby-plugin",
 	"license": "MIT",
 	"version": "1.0.1",
-	"homepage": "https://github.com/SylvainAllignol/kirby-cache-stamp",
+	"homepage": "https://plugins.getkirby.com/sylvainallignol/cache-stamp",
 	"authors": [
 		{
 			"name": "Sylvain Allignol",
