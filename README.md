@@ -20,7 +20,7 @@ A simple and lightweight Kirby plugin to handle **cache busting for CSS, JS, fon
 ### Via Composer (recommended)
 
 ```bash
-composer require allignol/cache-stamp
+composer require sylvainallignol/cache-stamp
 ```
 
 ### Manual (ZIP)
