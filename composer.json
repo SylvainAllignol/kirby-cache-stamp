@@ -1,5 +1,5 @@
 {
-	"name": "allignol/cache-stamp",
+	"name": "sylvainallignol/cache-stamp",
 	"description": "Cache buster for CSS, JS, fonts, SVG, PDF and images with advanced configuration options",
 	"type": "kirby-plugin",
 	"license": "MIT",
