@@ -39,7 +39,7 @@ class CacheStamp
 			'suffix' => ''
 		];
 
-		$options = (array) kirby()->option('allignol.cache-stamp', []);
+		$options = (array) kirby()->option('sylvainallignol.cache-stamp', []);
 
 		$this->options = array_merge($defaults, $options);
 

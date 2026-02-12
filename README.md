@@ -56,7 +56,7 @@ Add options to your `config.php`:
 
 ```php
 return [
-    'allignol.cache-stamp' => [
+    'sylvainallignol.cache-stamp' => [
         'active' => true,          // Enable/disable the plugin
         'method' => 'xxh3',        // Hash method: md5, sha1, sha256, xxh3, timestamp
         'prefix' => '',            // Prefix before the hash (a-z, A-Z, 0-9, -, _)
@@ -191,7 +191,7 @@ $options = $cacheStamp->options();
 ```php
 // config.php
 return [
-    'allignol.cache-stamp' => [
+    'sylvainallignol.cache-stamp' => [
         'method' => 'md5',
         'prefix' => 'v-',
         'suffix' => '-cached'

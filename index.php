@@ -5,7 +5,7 @@ use Allignol\CacheStamp\CacheStamp;
 @include_once __DIR__ . '/classes/CacheStamp.php';
 @include_once __DIR__ . '/helpers.php';
 
-Kirby::plugin('allignol/cache-stamp', [
+Kirby::plugin('sylvainallignol/cache-stamp', [
 	'components' => [
 		'css' => function ($kirby, $url) {
 			$cacheStamp = new CacheStamp();
